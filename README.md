@@ -119,7 +119,3 @@ src/
 └── test/
     └── java/com/udea/agentemcp/
 ```
-
-## Licencia
-
-Este proyecto no define actualmente una licencia en su `pom.xml`.
